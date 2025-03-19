@@ -6,7 +6,7 @@ import pytesseract
 import webcolors
 import cv2
 
-pytesseract.pytesseract.tesseract_cmd = r'D:\Programs\Tesseract-OCR\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'D:\Programs\Tesseract-OCR\tesseract.exe'
 
 app = Flask(__name__)
 
@@ -203,4 +203,4 @@ def get_text():
     return jsonify({Color : Text,})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+    app.run(host='0.0.0.0', port=3000)
