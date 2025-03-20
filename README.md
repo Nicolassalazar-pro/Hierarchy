@@ -26,6 +26,20 @@ pip install -r requirements.txt
 ```
 This will install all necessary dependencies listed in `requirements.txt`.
 
+If error with Tesseract on Windows, install Tesseract here:
+https://github.com/UB-Mannheim/tesseract/wiki
+
+Then assign the path of installation to
+```sh
+pytesseract.pytesseract.tesseract_cmd
+```
+
+Example:
+```sh
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+```
+
+
 ## Running the Flask Server
 
 You can run it inside the Python script:
