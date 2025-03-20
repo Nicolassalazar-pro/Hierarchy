@@ -8,8 +8,8 @@ To set up and run this project, follow the steps below:
 
 ### 1. Clone the Repository
 ```sh
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Nicolassalazar-pro/Hierarchy.git
+cd Hierarchy
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
