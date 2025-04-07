@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.p1 {
+    font-family: "Arial";
+}
+
+.formImage {
+    display: flexbox;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{url_for('static', filename='index.css')}}">
+    <title>Hierarchy</title>
+</head>
+<body>
+    <div class="content">
+        <h1>Hi! Welcome to Hierarchy</h1>
+        {% if text == "" %}
+            <p class="p1">Please upload an image to get a digital text</p>
+            <form method="post" enctype="multipart/form-data">
+                <div class="formImage">
+                    <input type="file" name="file">
+                </div>
+                <div class="formImage">
+                    <input type="submit" value="Upload">
+                </div>
+            </form>
+        {% endif %}
+        {% if msg != "" %}
+            <p>{{msg}}</p>
+        {% endif %}
+        {% if text != "" %}
+            <p class="p1">To upload another image, please go home with the button below.</p>
+            <form method="post" enctype="multipart/form-data">
+                <div class="formImage">
+                    <input type="submit" value="Home">
+                </div>
+            </form>
+            <div></div>
+            <div>
+                <h3>The text extrated is:</h3>
+                <p class="p1">{{text}}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

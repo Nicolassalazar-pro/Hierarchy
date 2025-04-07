@@ -1,7 +1,0 @@
-flask
-scikit-learn
-pillow
-numpy
-pytesseract
-webcolors
-opencv-python

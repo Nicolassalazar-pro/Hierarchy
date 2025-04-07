@@ -1,0 +1,23 @@
+Hello World! This is an example to test the OCR program in Python. If | fail
+this test, it’s because I’m Colombian.
+
+Adolf Hitler] (20 April 1889 — 30 April 1945) was an Austrian-born German politician who was
+the dictator of Nazi Germany from 1933 until his suicide in 1945. He rose to power as the leader
+of the Nazi Party,!*] becoming the chancellor in 1933 and then taking the title of Fuhrer und
+Reichskanzier in 1934. His invasion of Poland on 1 September 1939 marked the start of the
+Second World War. He was closely involved in military operations throughout the war and was
+central to the perpetration of the Holocaust: the genocide of about six million Jews and millions off
+other victims.
+
+Hitler was born in Braunau am Inn in Austria-Hungary and was raised near Linz. He lived in
+Vienna in the first decade of the 1900s before moving to Germany in 1913. He was decorated
+during his service in the German Army in World War |, receiving the Iron Cross. In 1919, he
+joined the German Workers’ Party (DAP), the precursor of the Nazi Party, and in 1921 was
+appointed leader of the Nazi Party. In 1923, he attempted to seize governmental power in a failed|
+coup in Munich and was sentenced to five years in prison, serving just over a year of his
+sentence. While there, he dictated the first volume of his autobiography and political manifesto
+Mein Kampf (My Struggle). After his early release in 1924, Hitler gained popular support by
+attacking the Treaty of Versailles and promoting pan-Germanism, antisemitism, and anti-
+communism with charismatic oratory and Nazi propaganda. He frequently denounced
+communism as being part of an international Jewish conspiracy.
+
