@@ -1,0 +1,45 @@
+{
+    "yellow": {
+        "images_cropped": [
+            "test1/Text1 (yellow).png",
+            "test1/Text2 (yellow).png",
+            "test2/Text1 (yellow).png",
+            "test2/Text2 (yellow).png",
+            "test2/Text3 (yellow).png",
+            "test2/Text4 (yellow).png",
+            "test2/Text5 (yellow).png",
+            "test2/Text6 (yellow).png",
+            "test3/Text1 (yellow).png",
+            "test3/Text2 (yellow).png",
+            "test4/Text1 (yellow).png"
+        ]
+    },
+    "magenta": {
+        "images_cropped": [
+            "test3/Text3 (magenta).png",
+            "test3/Text4 (magenta).png",
+            "test3/Text5 (magenta).png",
+            "test3/Text6 (magenta).png",
+            "test4/Text2 (magenta).png",
+            "test4/Text3 (magenta).png"
+        ]
+    },
+    "blue": {
+        "images_cropped": [
+            "test3/Text7 (blue).png",
+            "test3/Text8 (blue).png",
+            "test4/Text4 (blue).png",
+            "test4/Text5 (blue).png"
+        ]
+    },
+    "peach_orange": {
+        "images_cropped": [
+            "test4/Text6 (peach_orange).png",
+            "test4/Text7 (peach_orange).png"
+        ],
+        "combinations": [
+            "yellow",
+            "magenta"
+        ]
+    }
+}
